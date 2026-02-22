@@ -1,0 +1,47 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODeAAAA4O4A7t7d4CLu7uDu3i3iIu7u7e4uIuIi3u3tLiIi4iLu3S0iEiIAIt3d7S4iIgAg7t3tLiIi4iDd7e0iEiLiIADtDe4iIuIAAO0A7t4N4AAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mario_jump"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAREREREREfERERERERER8e4e7u7u7uHx7h7u7u7u4fHuHu7u7u7v8R4e7u7u7u/h/h7u7u7u7+/+Hu7u7u7v8R4e7u7u7+Hx7h7u7u7v/hHv//////H+4eERH/ERHh7h7hHh/u7u7uHuEeH+7u7u4e4R4f7u7u7h4RER8REREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "supermario-bloque-de-pantalla"
+    },
+    "image3": {
+        "data": "hwQQABAAAADh/u7v/u7v/uH+7v//7u/+4f7u///u7/7h/u7v/u7//+H+/+/+/+/+8f/u///u7/7h/u7v/u7v/uH+7u/+7v//4f7u7/7/7/7h/u7v/u7v/vH/7v//7u/+4f7u7/7u///h/v/v/u7v/uH+7u/+/+/+4f7u7/7u7/7h/u7v/u7v/g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bloque-de-paret"
+    },
+    "image4": {
+        "data": "hwQQABAAAAD//////////+/u7u7u7u7+7+/u7u7u/v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/v7u7u7v7+7+7u7u7u7v7//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bloque-suerte"
+    },
+    "image6": {
+        "data": "hwQQABAAAAD//////////09ERERERET0T09ERERE9PRPRERERERE9E9E7kRERET0T+TuRERERPRP5P5ERETk/k/kT0REROT+T+T+5O7u9P5P5O7u/v/0/0/07v5ERET0T0T0/0RERPRPRERERERE9E9PRERERPT0T0RERERERPT//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bloque-moneda"
+    },
+    "image5": {
+        "data": "hwQQABAAAAD///////////////////////9mZvb//////3d392ZmZv//d3f3d3d3//9mZvZmZmb//2Zm9nZ3d///d3f3ZmZm//93d/dmZmb//2Zm9mZmZv//Zmb2dnZ2//93d/f//////3d39////////////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bloque-de-tuberia"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODe4O4A4O4A7t4tAiLu7uDu3i0CIu7u7e4uIgIi3u3tLiIiAiLu3S0iEiIAIt3d7S4iIgAg7t3tLiIiACDd7e0iEiICIADtDe4iIgIAAO0A7gAgAgAADe3uACACAADQ7e4AIAIAAAAAAADuDg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mario_corriendo"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAADuAAAAAAAAAO4OAADwAADg7u4AAP8AAN7d7t0N/wDg/9/e3f3/AO7/3d7d3f/u7u7v3t3dDe7u7u/e3d0NAO7u3d7d3Q0A4P/f3t3dDQAA/t3e3d3/AADg7u7d/f8AAADu7t0N/wAAAO4OAAD/AAAA7g4AAPAAAADuDgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "goomba-malo-i-esplota"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
